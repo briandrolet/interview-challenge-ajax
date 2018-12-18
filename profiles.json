@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tim",
+    "network": "facebook",
+    "enabled": 1
+  },
+  {
+    "name": "Janet",
+    "network": "facebook",
+    "enabled": 1
+  },
+  {
+    "name": "Mike",
+    "network": "facebook",
+    "enabled": 0
+  },
+  {
+    "name": "Greg",
+    "network": "twitter",
+    "enabled": 1
+  },
+  {
+    "name": "Steph",
+    "network": "twitter",
+    "enabled": 1
+  },
+  {
+    "name": "Alice",
+    "network": "twitter",
+    "enabled": 0
+  }
+]
